@@ -1,5 +1,5 @@
 <h1 align="left">Hi there! I am Akshitha Chinthakindi</h1>
-<h3 align="left">I am a Full Stack Web Developer</h3>
+<h3 align="left">I am a Full Stack Web Developer💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshithachinthakindi22&label=Profile%20views&color=0e75b6&style=flat" alt="akshithachinthakindi22" /> </p>
 
