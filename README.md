@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshithachinthakindi22&label=Profile%20views&color=0e75b6&style=flat" alt="akshithachinthakindi22" /> </p>
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **chinthakindiakshitha@gmail.com**
 
