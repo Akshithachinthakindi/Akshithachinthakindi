@@ -1,5 +1,4 @@
 ![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380)
-
 <h1 align="left">Hi there!🦋<br>I am Akshitha Chinthakindi</h1>
 <h3 align="left">I am a Full Stack Web Developer💻</h3>
 
