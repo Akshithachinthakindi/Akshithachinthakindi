@@ -1,5 +1,5 @@
-![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1380)
-<h1 align="left">Hi there!🦋<br>I am Akshitha Chinthakindi</h1>
+
+<h2 align="left">Hi there!🦋 <br> Akshitha Chinthakindi here..</h2>
 
 <img align = "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png">
 
