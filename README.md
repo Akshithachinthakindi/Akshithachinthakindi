@@ -30,7 +30,7 @@
 <br>
 
 
-<h3>:fire: My Stats :</h3>
+<h3>My Stats :</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshithachinthakindi&show_icons=true&locale=en" alt="akshithachinthakindi" /></p>
 
