@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi there!🦋 <br> Akshitha Chinthakindi here..</h2>
+<h2 align="left">Hi there!🦋 <br> I'm Akshitha Chinthakindi </h2>
 
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=akshithachinthakindi22&label=Profile%20views&color=0e75b6&style=flat" alt="akshithachinthakindi22" /> </p>
