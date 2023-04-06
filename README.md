@@ -25,7 +25,7 @@
   
 </p>
 
-## Web Development:
+## Technical skills:
   
 <p align="left">
 	<a href="https://html.com/">
@@ -46,28 +46,20 @@
 	<a href="https://reactjs.org/">
 	   <img src="https://img.shields.io/badge/React-092E20?style=for-the-badge&logo=react&logoColor=61DAFB" alt="node.js" />&nbsp;&nbsp;
 	</a>
-  
-## Languages:
-  
-  <p align="centre">
+	<br/>
 	<a href="https://www.java.com/en/">
 	   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
 	</a>
 	<a href="https://cplusplus.com/">
 	<img src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=c++&logoColor=white" />&nbsp;&nbsp;
-  </p>
-  
-## Tools and Databases:
-  
-   <p align="centre">
-        <a href="https://www.mysql.com/">
+	<a href="https://www.mysql.com/">
 	<img src="https://img.shields.io/badge/MySQL-239120?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
 	<a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />&nbsp;&nbsp;
 	<a href="https://git-scm.com/">
 	<img src="https://img.shields.io/badge/Git-239120?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 	</a>
-    </p>
+</p>
 
 ## Stats:
 <p align="center">
