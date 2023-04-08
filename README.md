@@ -2,7 +2,10 @@
 <h2 align="left">Hi there!🦋 <br> I'm Akshitha Chinthakindi </h2>
 
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=akshithachinthakindi22&label=Profile%20views&color=0e75b6&style=flat" alt="akshithachinthakindi22" /> </p>
+<p align="center">
+ <img align="centre" src="https://komarev.com/ghpvc/?username=akshithachinthakindi22&label=Profile%20views&color=0e75b6&style=flat" alt="akshithachinthakindi22" />
+</p>
+
 
 <p align="center">
  <img align="centre" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png" width="400" height="320" />
@@ -24,6 +27,7 @@
     </a>
   
 </p>
+
 
 ## Technical skills:
   
