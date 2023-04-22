@@ -19,9 +19,9 @@
    <a href="https://www.linkedin.com/in/akshithachinthakindi/">
 		<img src="https://img.shields.io/badge/Linkedin-2088FF?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-  	<a href="https://twitter.com/akshitha0123">
+<!--   	<a href="https://twitter.com/akshitha0123">
 		<img src="https://img.shields.io/badge/Twitter-0d597f?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
+	</a> -->
   <a href="https://www.instagram.com/akshitha.chinthakindi">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
