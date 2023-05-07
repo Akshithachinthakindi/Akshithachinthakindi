@@ -54,15 +54,15 @@
 	<a href="https://www.java.com/en/">
 	   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
 	</a>
-	<a href="https://www.mysql.com/">
-	<img src="https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=react&logoColor=61DAFB" alt="mysql" />&nbsp;&nbsp;
+	<a href="https://www.mongodb.com/">
+	<img src="https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=61DAFB" alt="mongodb" />&nbsp;&nbsp;
 	<a href="https://www.docker.com/">
 	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />&nbsp;&nbsp;
 	<a href="https://git-scm.com/">
 	<img src="https://img.shields.io/badge/Git-239120?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 	</a>
 	<a href="https://www.jenkins.io/">
-	<img src="https://img.shields.io/badge/Jenkins-239120?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Jenkins-239120?style=for-the-badge&logo=Jenkins&logoColor=white" alt="jenkins" />&nbsp;&nbsp;
 	</a>
 	
 </p>
