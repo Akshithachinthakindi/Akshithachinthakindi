@@ -7,9 +7,9 @@
 </p>
 
 
-<p align="center">
- <img align="centre" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png" width="400" height="320" />
-</p>
+<!--<p align="center">-->
+<!--  <img align="centre" alt="GIF" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png" width="400" height="320" /> -->
+<!-- </p> -->
 
 - 🎓 I'm a 3rd year under-grad from Lovely Professional University.
 - 🌱 I’m currently learning **DSA and backend Development**.
