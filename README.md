@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi there!🦋 <br> I'm Akshitha Chinthakindi </h2>
+<h2 align="left">Hi there! <br> I'm Akshitha Chinthakindi </h2>
 
 
 <p align="center">
