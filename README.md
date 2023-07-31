@@ -10,6 +10,6 @@
 :computer: I am passionate about web development and love exploring different areas of technology <br>
 🌏 To know more about me, visit my <a href="https://portfolio-git-main-akshithachinthakindi.vercel.app/">website</a> <br>
 
-![Akshitha Chinthakindi's github stats](https://github-readme-stats.vercel.app/api?username=akshithachinthakindi&show_icons=true&theme=radical)
+<!--![Akshitha Chinthakindi's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshithachinthakindi&show_icons=true&theme=radical)-->
 <br/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akshithachinthakindi&layout=compact&langs_count=8&theme=tokyonight"/>
