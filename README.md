@@ -6,7 +6,7 @@
 
 ## About Me
 
-:woman_student: I am final year undergraduate from Lovely Professional University <br>
+:woman_student: I am a final year undergraduate from Lovely Professional University <br>
 :computer: I am passionate about web development and love exploring different areas of technology <br>
 🌏 To know more about me, visit my <a href="https://portfolio-git-main-akshithachinthakindi.vercel.app/">website</a> <br>
 
